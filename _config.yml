@@ -1,6 +1,7 @@
 layout: sidebar
 style: dark
-theme: jekyll-theme-minimal
+# removed minima theme because we are using regular one
+#theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-octicons
